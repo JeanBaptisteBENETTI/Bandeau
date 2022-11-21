@@ -28,6 +28,7 @@ public class Main {
         scenario.ajouterEffet(c, 50);
         scenario.excecuter();
 
+
     }
 
 
